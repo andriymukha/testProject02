@@ -23,7 +23,9 @@ class ViewController: UIViewController {
     }
 
     @IBAction func buttonPressed(_ sender: Any) {
-        mainLabel.text = "This a 'developer' branch!"
+
+        mainLabel.text = "Conflict resolved"
+
     }
     
     @IBAction func button2Pressed(_ sender: Any) {
