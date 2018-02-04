@@ -23,7 +23,7 @@ class ViewController: UIViewController {
     }
 
     @IBAction func buttonPressed(_ sender: Any) {
-        mainLabel.text = "Button pressed!"
+        mainLabel.text = "This is 'dev_test' branch"
     }
     
     @IBAction func button2Pressed(_ sender: Any) {
